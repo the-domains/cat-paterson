@@ -1,18 +1,28 @@
-analytics: {}
+name: Cat Paterson
+favicon: null
+layout_spectrum: 0.9216340747661889
+typography_spectrum: 0.22161018359474838
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#C0D0B0'
-    - '#000000'
-    - '#889090'
-    - '#000000'
-    - '#D0D890'
-  brandStrength: 0.615784
-  lightness: 0.277176
-  rhythmicContrast: 0.499787
-  saturation: 0.006985
-cta: {}
-layout_spectrum: 0.887669
-name: Cat Paterson
-opengraph: {}
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.615784157300368
+  lightness: 0.2771762004122138
+  saturation: 0.006985650630667806
+  rhythmicContrast: 0.49978700932115316
 purpose: []
-typography_spectrum: 0.481419
