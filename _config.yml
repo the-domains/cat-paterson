@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C0D0B0'
+    - '#000000'
+    - '#889090'
+    - '#000000'
+    - '#D0D890'
+  brandStrength: 0.615784
+  lightness: 0.277176
+  rhythmicContrast: 0.499787
+  saturation: 0.006985
+cta: {}
+layout_spectrum: 0.887669
+name: Cat Paterson
+opengraph: {}
+purpose: []
+typography_spectrum: 0.481419
